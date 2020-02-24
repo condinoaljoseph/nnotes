@@ -1,0 +1,80 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "My credentials",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "pinned": false,
+      "date": "2020-02-24T00:47:20.327Z",
+      "label": null
+    },
+    {
+      "id": 3,
+      "title": "Sample Title3",
+      "content": "There are many variations of passages of Lorem Ipsum available",
+      "pinned": false,
+      "date": "2020-02-23T23:34:47.920Z",
+      "label": null
+    },
+    {
+      "title": "Kitteric Net",
+      "content": "Thanks",
+      "pinned": false,
+      "date": "2020-02-23T10:47:19.997Z",
+      "label": null,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "title": "My credentials",
+      "content": "My sample ",
+      "pinned": false,
+      "date": "2020-02-23T10:46:10.576Z",
+      "label": null
+    },
+    {
+      "id": 6,
+      "title": "Sample Title2",
+      "content": "Sample content2",
+      "pinned": false,
+      "date": "03-19-2019",
+      "label": null
+    },
+    {
+      "id": 7,
+      "title": "Sample Title3",
+      "content": "Sample content3",
+      "pinned": false,
+      "date": "03-19-2019",
+      "label": null
+    },
+    {
+      "id": 8,
+      "title": "Kitteric Net, Inc",
+      "content": "Thanks",
+      "pinned": false,
+      "date": "2020-02-24T00:08:42.769Z",
+      "label": null
+    },
+    {
+      "title": "Important File Paths",
+      "content": "\\\\192.168.1.15\\Design Team\\RESOURCES\\FONTS\n\\\\192.168.1.40\\backupfiles\\WORDPRESS\\Resources and Templates\\_TEMPLATES\\WP-VERSIONS",
+      "pinned": false,
+      "date": "2020-02-23T23:33:55.939Z",
+      "label": null,
+      "id": 9
+    }
+  ],
+  "labels": [
+    {
+      "id": 1,
+      "name": "Educational",
+      "date": "03-19-2019"
+    },
+    {
+      "id": 2,
+      "name": "For Employment",
+      "date": "03-19-2019"
+    }
+  ]
+}
